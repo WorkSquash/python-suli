@@ -2,7 +2,7 @@ import random
 
 szam=random.randint(0,100)
 
-pro=5
+pro=10
 
 input('Ha egynél nagyobb számot írsz be, akkor a játék automatikusan véget ér.')
 
