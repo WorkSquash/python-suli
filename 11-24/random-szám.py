@@ -67,6 +67,6 @@ while pro!=1:
             else:
                 print('Eltaláltad!')
                 pro=1
-                print('A szám', szam, 'volt!')
+                #print('A szám', szam, 'volt!')
 print('Játék vége!')
 print('A szám', szam, 'volt!')
