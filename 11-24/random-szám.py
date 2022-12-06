@@ -10,7 +10,7 @@ csal=int(input('Csalások bekapcsolása? [0-1]'))
 
 
 
-while csal==1 or csal==0 and pro!=1:
+while pro!=1:
     csal=int(input('Biztosan bekapcsolod a csalásokat? [0-1]'))
     if csal==1 and csal!=0:
         print('Csalás bekapcsolva.')
@@ -18,7 +18,7 @@ while csal==1 or csal==0 and pro!=1:
 
         tipp=int(input('Adja meg a tippjét! [0-100]'))
 
-        pro=5
+        pro=10
         while pro !=1:
             if tipp>szam:
                 pro=pro-1
@@ -46,7 +46,7 @@ while csal==1 or csal==0 and pro!=1:
 
         tipp=int(input('Adja meg a tippjét! [0-100]'))
 
-        pro=5
+        pro=10
         while pro !=1:
             if tipp>szam:
                 pro=pro-1
