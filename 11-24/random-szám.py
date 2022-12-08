@@ -2,7 +2,7 @@
 
 import random 
 
-szam=round(random.uniform(0, 10), 2)
+szam=round(random.uniform(0, 10), 1)
 
 pro=0
 input('Ha egynél nagyobb számot írsz be, akkor a játék automatikusan véget ér.')
