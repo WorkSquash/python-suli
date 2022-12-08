@@ -1,3 +1,5 @@
+#© 2022 09.22 WorkSquash
+
 #alapműveletek
 
 x=int(input('Kérek egy számot:'))

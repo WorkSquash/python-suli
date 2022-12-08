@@ -1,3 +1,5 @@
+#© 2022 09.29 WorkSquash
+
 import random
 
 oszt=random.randint(2,10)

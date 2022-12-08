@@ -1,3 +1,5 @@
+#© 2022 09.22 WorkSquash
+
 #véletlenszámok
  
 import random

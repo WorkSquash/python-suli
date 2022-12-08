@@ -1,3 +1,5 @@
+#© 2022 10.27 WorkSquash
+
 #Phy
 ert=True
 print('Vidd ki a szemetet')

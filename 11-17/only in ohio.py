@@ -1,4 +1,4 @@
-from math import factorial
+#© 2022 11.17 WorkSquash
 
 
 n=int(input('Szám: '))

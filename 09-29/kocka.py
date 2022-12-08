@@ -1,3 +1,5 @@
+#© 2022 09.29 WorkSquash
+
 import random
 
 num=random.randint(1,6)

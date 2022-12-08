@@ -1,3 +1,5 @@
+#© 2022 11.24 WorkSquash
+
 szam1=int(input('Add meg az 1. szám erékét!'))
 szam2=int(input('Add meg az 2. szám erékét!'))
 

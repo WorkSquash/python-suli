@@ -1,3 +1,5 @@
+#© 2022 11.03 WorkSquash
+
 szam=int(input("Kérek egy számot:"))
 min=szam
 max=szam

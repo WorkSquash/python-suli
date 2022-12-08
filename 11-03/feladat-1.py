@@ -1,3 +1,5 @@
+#© 2022 11.03 WorkSquash
+
 szam=int(input("kérek egy számot: "))
 
 while szam != 0:

@@ -1,3 +1,5 @@
+#© 2022 09.29 WorkSquash
+
 import random
 
 szam=random.randint(0,100)

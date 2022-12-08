@@ -1,3 +1,5 @@
+#© 2022 11.03 WorkSquash
+
 import random
 
 db=0

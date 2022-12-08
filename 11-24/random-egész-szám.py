@@ -1,3 +1,5 @@
+#© 2022 11.24 WorkSquash
+
 import random 
 
 szam=random.randint(0,100)
@@ -6,12 +8,12 @@ input('Ha egynél nagyobb számot írsz be, akkor a játék automatikusan véget
 pro=0
 
 
-csal=int(input('Csalások bekapcsolása? [0-1]'))
+csal=int(input('Csalás bekapcsolása? [0-1]'))
 
 
 
 while pro!=1:
-    csal=int(input('Biztosan bekapcsolod a csalásokat? [0-1]'))
+    csal=int(input('Biztosan bekapcsolod a csalást? [0-1]'))
     if csal==1 and csal!=0:
         print('Csalás bekapcsolva.')
         print(szam)

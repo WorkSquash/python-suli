@@ -1,3 +1,5 @@
+#© 2022 11.24 WorkSquash
+
 print("A * karakterrel befejezheted a kódót." )
 szo=input('Kérek egy szót:')
 hossz=len(szo)

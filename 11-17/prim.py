@@ -1,3 +1,4 @@
+#© 2022 11.17 WorkSquash
 
 n=int(input('Kérek egy számot!: '))
 

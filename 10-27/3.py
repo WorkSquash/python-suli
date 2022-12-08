@@ -1,3 +1,5 @@
+#© 2022 10.27 WorkSquash
+
 osszeg=0
 db=0
 szam=int(input('Adj meg egy egész számot!'))

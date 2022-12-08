@@ -1,3 +1,5 @@
+#© 2022 11.17 WorkSquash
+
 lista=[21,54,65,43,66,44,23,64]
 print(lista)
 

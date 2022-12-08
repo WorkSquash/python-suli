@@ -1,4 +1,4 @@
-
+#© 2022 11.24 WorkSquash
 letet=int(input('A lekötött összeg?'))
 kamat=int(input('A kamat összege?'))
 ki=letet

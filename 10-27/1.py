@@ -1,3 +1,5 @@
+#© 2022 10.27 WorkSquash
+
 szamlalo=0
 while szamlalo<5:
     print('Hello')

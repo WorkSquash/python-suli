@@ -1,3 +1,5 @@
+#© 2022 11.24 WorkSquash
+
 import random 
 
 ossz=0

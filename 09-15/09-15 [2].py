@@ -1,3 +1,5 @@
+#© 2022 09.15 WorkSquash
+
 print('2022.09.15 12:52')
 
 a=int(input('szám1='))

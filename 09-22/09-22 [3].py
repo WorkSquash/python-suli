@@ -1,3 +1,5 @@
+#© 2022 09.22 WorkSquash
+
 #Logikai Operátorok
 
 a=18

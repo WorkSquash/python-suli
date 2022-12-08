@@ -1,3 +1,5 @@
+#© 2022 10.27 WorkSquash
+
 tries=0
 # the password is 2986
 password=int(input('Adjon meg egy jelszót! (Pl:1234)'))
